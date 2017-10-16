@@ -1,0 +1,1 @@
+class EV(Device, Generator):
